@@ -1,0 +1,10 @@
+** Commands needed : 
+    1/ npm tailwind init
+    2/ npm init -y
+    3/ npm i -D prettier-plugin-tailwindcss
+
+** The 'scripts' object in the 'package.json' file is usefull when it comes to alias the long commands, it will replace any value in the object with 'npm run' followed by its key; Exapmle (  npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch ==> npm run tailwind  )
+
+** Useful websites :
+    1/ emojipedia.org
+    2/ 
