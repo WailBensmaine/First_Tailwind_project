@@ -8,3 +8,14 @@
 ** Useful websites :
     1/ emojipedia.org
     2/ 
+
+
+** In css, the psudeo classes"before" and "after" start from the middle of their element in term of width and from the start of their element in term of height
+
+** Always check if the 'content' array in the tailwind configuration file contains all the files you need to use tailwind classes into, you may need to update it after creating another files with different extentions
+
+** Before every push, make sure to format the code using prettier format by running the command ',pm run prettier' so all the collaborators can use the same order of inserting tailwind classes
+
+** EXTREMELY IMPORTANT: Check this page: "https://tailwindcss.com/docs/adding-custom-styles#using-arbitrary-values"
+
+** EXTREMELY IMPORTANT: Check this page too: "https://tailwindcss.com/docs/reusing-styles#extracting-classes-with-apply"
